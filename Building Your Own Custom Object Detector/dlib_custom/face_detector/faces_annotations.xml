@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='faces/faces_001.jpg'>
+    <box top='487' left='60' width='72' height='76'/>
+    <box top='368' left='122' width='82' height='106'/>
+    <box top='154' left='309' width='73' height='85'/>
+    <box top='129' left='409' width='84' height='85'/>
+    <box top='72' left='701' width='80' height='84'/>
+    <box top='387' left='649' width='57' height='54'/>
+    <box top='542' left='729' width='65' height='75'/>
+  </image>
+  <image file='faces/faces_002.jpg'>
+    <box top='76' left='103' width='143' height='133'/>
+  </image>
+  <image file='faces/faces_003.jpg'>
+    <box top='107' left='22' width='220' height='213'/>
+  </image>
+  <image file='faces/faces_004.jpg'>
+    <box top='30' left='118' width='56' height='55'/>
+  </image>
+  <image file='faces/faces_005.jpg'>
+    <box top='69' left='143' width='118' height='115'/>
+  </image>
+  <image file='faces/faces_006.jpg'>
+    <box top='92' left='208' width='133' height='144'/>
+  </image>
+  <image file='faces/faces_007.jpg'>
+    <box top='20' left='50' width='71' height='67'/>
+    <box top='86' left='138' width='46' height='61'/>
+    <box top='103' left='207' width='53' height='48'/>
+    <box top='45' left='323' width='55' height='56'/>
+    <box top='68' left='447' width='55' height='53'/>
+    <box top='120' left='508' width='61' height='59'/>
+  </image>
+  <image file='faces/faces_008.jpg'>
+    <box top='31' left='36' width='95' height='104'/>
+  </image>
+  <image file='faces/faces_009.jpg'>
+    <box top='94' left='171' width='96' height='98'/>
+  </image>
+  <image file='faces/faces_010.jpg'>
+    <box top='53' left='63' width='66' height='61'/>
+    <box top='48' left='131' width='57' height='64'/>
+  </image>
+  <image file='faces/faces_011.jpg'>
+    <box top='68' left='115' width='33' height='28'/>
+    <box top='52' left='155' width='31' height='32'/>
+    <box top='62' left='191' width='33' height='37'/>
+    <box top='118' left='205' width='29' height='29'/>
+    <box top='125' left='158' width='38' height='35'/>
+    <box top='120' left='122' width='26' height='28'/>
+  </image>
+  <image file='faces/faces_012.jpg'>
+    <box top='79' left='88' width='104' height='99'/>
+  </image>
+  <image file='faces/faces_013.jpg'>
+    <box top='21' left='8' width='41' height='44'/>
+    <box top='27' left='64' width='57' height='68'/>
+  </image>
+  <image file='faces/faces_014.jpg'>
+    <box top='61' left='170' width='62' height='65'/>
+  </image>
+  <image file='faces/faces_015.jpg'>
+    <box top='153' left='212' width='112' height='110'/>
+  </image>
+  <image file='faces/faces_016.jpg'>
+    <box top='111' left='58' width='171' height='163'/>
+  </image>
+  <image file='faces/faces_017.jpg'>
+    <box top='36' left='177' width='63' height='59'/>
+    <box top='193' left='74' width='61' height='63'/>
+  </image>
+  <image file='faces/faces_018.jpg'>
+    <box top='111' left='67' width='34' height='37'/>
+    <box top='100' left='105' width='36' height='39'/>
+    <box top='213' left='92' width='38' height='38'/>
+    <box top='148' left='126' width='41' height='39'/>
+    <box top='133' left='173' width='35' height='31'/>
+    <box top='92' left='215' width='32' height='44'/>
+    <box top='144' left='258' width='36' height='35'/>
+    <box top='148' left='320' width='43' height='41'/>
+    <box top='107' left='375' width='37' height='43'/>
+  </image>
+  <image file='faces/faces_019.jpg'>
+    <box top='89' left='42' width='51' height='58'/>
+    <box top='118' left='105' width='49' height='61'/>
+    <box top='108' left='165' width='61' height='64'/>
+    <box top='129' left='237' width='65' height='70'/>
+  </image>
+  <image file='faces/faces_020.jpg'>
+    <box top='295' left='249' width='175' height='145'/>
+  </image>
+  <image file='faces/faces_021.jpg'>
+    <box top='271' left='193' width='57' height='55'/>
+    <box top='275' left='385' width='57' height='57'/>
+  </image>
+  <image file='faces/faces_022.jpg'>
+    <box top='92' left='26' width='59' height='51'/>
+    <box top='36' left='156' width='58' height='55'/>
+    <box top='50' left='284' width='53' height='50'/>
+  </image>
+  <image file='faces/faces_023.jpg'>
+    <box top='291' left='522' width='153' height='143'/>
+  </image>
+  <image file='faces/faces_024.jpg'>
+    <box top='141' left='172' width='145' height='123'/>
+  </image>
+  <image file='faces/faces_025.jpg'>
+    <box top='131' left='48' width='473' height='418'/>
+  </image>
+  <image file='faces/faces_026.jpg'>
+    <box top='114' left='52' width='70' height='64'/>
+    <box top='263' left='79' width='75' height='74'/>
+    <box top='159' left='126' width='56' height='63'/>
+    <box top='178' left='208' width='59' height='63'/>
+    <box top='82' left='223' width='61' height='60'/>
+    <box top='122' left='303' width='63' height='67'/>
+    <box top='256' left='304' width='61' height='64'/>
+    <box top='197' left='375' width='82' height='73'/>
+  </image>
+  <image file='faces/faces_027.jpg'>
+    <box top='28' left='106' width='68' height='71'/>
+  </image>
+  <image file='faces/faces_028.jpg'>
+    <box top='219' left='129' width='82' height='81'/>
+    <box top='228' left='224' width='82' height='75'/>
+    <box top='219' left='333' width='83' height='82'/>
+  </image>
+  <image file='faces/faces_029.jpg'>
+    <box top='91' left='111' width='42' height='35'/>
+    <box top='159' left='153' width='38' height='38'/>
+    <box top='82' left='213' width='37' height='31'/>
+    <box top='71' left='284' width='40' height='37'/>
+    <box top='120' left='292' width='33' height='36'/>
+    <box top='84' left='348' width='33' height='39'/>
+    <box top='91' left='405' width='35' height='39'/>
+  </image>
+  <image file='faces/faces_030.jpg'>
+    <box top='35' left='22' width='440' height='421'/>
+  </image>
+  <image file='faces/faces_031.jpg'>
+    <box top='93' left='59' width='205' height='202'/>
+  </image>
+  <image file='faces/faces_032.jpg'>
+    <box top='33' left='84' width='54' height='53'/>
+    <box top='56' left='155' width='40' height='40'/>
+    <box top='50' left='234' width='36' height='41'/>
+    <box top='42' left='320' width='46' height='48'/>
+  </image>
+  <image file='faces/faces_033.jpg'>
+    <box top='37' left='27' width='44' height='43'/>
+  </image>
+  <image file='faces/faces_034.jpg'>
+    <box top='134' left='128' width='99' height='103'/>
+  </image>
+  <image file='faces/faces_035.jpg'>
+    <box top='108' left='162' width='219' height='197'/>
+  </image>
+  <image file='faces/faces_036.jpg'>
+    <box top='29' left='176' width='82' height='87'/>
+  </image>
+  <image file='faces/faces_037.jpg'>
+    <box top='78' left='110' width='68' height='68'/>
+    <box top='56' left='244' width='53' height='57'/>
+  </image>
+  <image file='faces/faces_038.jpg'>
+    <box top='37' left='112' width='41' height='48'/>
+    <box top='38' left='204' width='45' height='46'/>
+  </image>
+  <image file='faces/faces_039.jpg'>
+    <box top='25' left='35' width='39' height='39'/>
+  </image>
+  <image file='faces/faces_040.jpg'>
+    <box top='62' left='58' width='77' height='85'/>
+  </image>
+  <image file='faces/faces_041.jpg'>
+    <box top='84' left='115' width='155' height='161'/>
+  </image>
+  <image file='faces/faces_042.jpg'>
+    <box top='353' left='159' width='326' height='322'/>
+  </image>
+  <image file='faces/faces_043.jpg'>
+    <box top='189' left='271' width='52' height='43'/>
+  </image>
+  <image file='faces/faces_044.jpg'>
+    <box top='133' left='65' width='34' height='35'/>
+    <box top='54' left='114' width='39' height='38'/>
+    <box top='260' left='135' width='43' height='42'/>
+    <box top='233' left='260' width='29' height='37'/>
+    <box top='42' left='337' width='37' height='36'/>
+    <box top='95' left='399' width='44' height='43'/>
+  </image>
+</images>
+</dataset>
