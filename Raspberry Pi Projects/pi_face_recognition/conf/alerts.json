@@ -1,0 +1,11 @@
+{
+	"aws_access_key_id": "XXXXX",
+	"aws_secret_access_key": "XXXXX",
+	"s3_bucket": "XXXXX",
+	"twilio_sid": "XXXXX",
+	"twilio_auth": "XXXXX",
+	"twilio_to": "XXXXX",
+	"twilio_from": "XXXXX",
+	"message_body": "An unauthorized user is sitting at your desk.",
+	"wait_n_seconds": 300
+}

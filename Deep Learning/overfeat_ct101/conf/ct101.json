@@ -1,0 +1,26 @@
+{
+  #######
+  # DATASET SAMPLING CONFIGURATION
+  #######
+  "dataset_path": "/home/ubuntu/datasets/ct101",
+  "features_path": "output/ct101/features.hdf5",
+
+  #######
+  # OVERFEAT CONFIGURATION
+  #######
+  "overfeat_layer_num": -3,
+  "overfeat_fixed_size": [231, 231],
+  "overfeat_batch_size": 32,
+
+  #######
+  # LABEL ENCODER CONFIGURATION
+  #######
+  "label_encoder_path": "output/ct101/le.cpickle",
+
+  #######
+  # CLASSIFIER CONFIGURATION
+  #######
+  "classifier_path": "output/ct101/classifier.cpickle",
+  "training_size": 0.75,
+  "results_path": "output/ct101/results.txt"
+}
