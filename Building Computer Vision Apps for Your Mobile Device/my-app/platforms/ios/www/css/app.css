@@ -1,0 +1,55 @@
+/* sticky footer */
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+  max-height: 100%;
+  overflow:hidden;
+}
+.page-wrap {
+  min-height: 100%;
+  max-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -100px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  height: 100px; 
+}
+
+/* app styling and animation */
+h2 {
+  -webkit-animation-delay: 1.5s;
+}
+
+h3 {
+  -webkit-animation-delay: 2.2s;
+}
+
+#logo {
+    -webkit-animation-delay: 1s;
+    margin-top: 40px;
+}
+
+#spinner {
+    display: none;
+    color: #337ab7;
+}
+
+/* box */
+#wrapper {
+    position: relative;
+}
+
+#image {
+    background-color: transparent;
+}
+
+.box {
+    position: absolute;
+    border: 5px solid rgba(255, 255, 255, .5);
+}
