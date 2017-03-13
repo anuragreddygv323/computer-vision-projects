@@ -1,0 +1,29 @@
+{
+	#######
+	# DATASET PATH
+	#######
+	"image_dataset": "datasets/flowers17",
+
+	#######
+	# FEATURE EXTRACTION
+	#######
+	"kp_detector": "GFTT",
+	"descriptor": "RootSIFT",
+	"features_path": "output/flowers17/features.hdf5",
+
+	#######
+	# BAG OF VISUAL WORDS
+	#######
+    "vocab_path": "output/flowers17/vocab.cpickle",
+    "bovw_path": "output/flowers17/bovw.hdf5",
+    "vocab_sizes": [32, 64, 128, 256, 512, 1024],
+	"sample_size": 0.25,
+	"num_passes": 3,
+
+	#######
+	# CLASSIFIER
+	#######
+    "classifier_path": "output/flowers17/model.cpickle",
+	"accuracies_path": "output/flowers17/accuracies.cpickle",
+	"train_size": 0.75
+}
