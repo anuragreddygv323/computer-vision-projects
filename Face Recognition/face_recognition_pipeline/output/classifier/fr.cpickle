@@ -1,0 +1,15 @@
+ccopy_reg
+_reconstructor
+p1
+(cpyimagesearch.face_recognition.facerecognizer
+FaceRecognizerInstance
+p2
+c__builtin__
+tuple
+p3
+(I01
+(lp4
+S'adrian'
+p5
+attRp6
+.
