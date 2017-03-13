@@ -6,4 +6,3 @@
 - first_try
 - gathering_character_examples
 - improving_classifier
-- 
